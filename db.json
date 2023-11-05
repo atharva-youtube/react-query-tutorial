@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "content": "This is my first post"
+    },
+    {
+      "id": 2,
+      "content": "This is my second post"
+    },
+    {
+      "id": 3,
+      "content": "This is my third post"
+    },
+    {
+      "content": "Go on a walk",
+      "id": 4
+    },
+    {
+      "content": "Come back home",
+      "id": 5
+    },
+    {
+      "content": "Sleep quietly",
+      "id": 6
+    },
+    {
+      "content": "Wake up",
+      "id": 7
+    },
+    {
+      "content": "I woke up at 12 PM",
+      "id": 8
+    },
+    {
+      "content": "I ate pizza",
+      "id": 9
+    }
+  ]
+}
